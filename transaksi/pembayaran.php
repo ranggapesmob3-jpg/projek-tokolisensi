@@ -88,7 +88,7 @@ if (!$data) {
     </p>
 
     <div class="text-center mt-3">
-        <a href="index.php" class="btn btn-secondary btn-sm">kembali</a>
+        <a href="../index.php" class="btn btn-secondary btn-sm">kembali</a>
     </div>
 
 </div>
