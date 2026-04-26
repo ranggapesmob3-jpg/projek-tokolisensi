@@ -15,7 +15,7 @@ $data = mysqli_query($conn, "SELECT * FROM produk");
 <!-- NAVBAR -->
 <nav class="navbar navbar-dark bg-dark">
   <div class="container d-flex justify-content-between">
-    <span class="navbar-brand">Lisensi Store</span>
+    <span class="navbar-brand">Lisenstore</span>
 
     <!-- 🔥 SATU-SATUNYA TOMBOL CEK -->
     <a href="cektransaksi.php" class="btn btn-info btn-sm">
